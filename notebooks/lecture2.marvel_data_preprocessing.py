@@ -1,6 +1,6 @@
 # Databricks notebook source
 
-# MAGIC %pip install -e /Workspace/Users/muhammad.noor@shrss.com/marvel-characters
+# MAGIC %pip install -e ..
 # MAGIC %restart_python
 
 # COMMAND ----------
